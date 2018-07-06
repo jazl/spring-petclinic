@@ -53,6 +53,8 @@ import org.springframework.transaction.annotation.Transactional;
  */
 public abstract class AbstractClinicServiceTests {
 
+    // In b1
+
     @Autowired
     protected ClinicService clinicService;
 
