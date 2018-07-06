@@ -16,5 +16,5 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @RunWith(SpringJUnit4ClassRunner.class)
 @ActiveProfiles("spring-data-jpa")
 public class ClinicServiceSpringDataJpaTests extends AbstractClinicServiceTests {
-    // b1-2
+    // b1-2---
 }
